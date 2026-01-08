@@ -1,4 +1,4 @@
-### PosturePal
+# PosturePal
 
 Based on PosturePal, a hackathon project made during UF OSC Hackathon 2025.
 
